@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/Projects/MLflow%20Project/mlruns/0/9687524d31324b10a9d4c08cfeaf368f/artifacts
+end_time: 1748575823678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9687524d31324b10a9d4c08cfeaf368f
+run_name: welcoming-eel-523
+run_uuid: 9687524d31324b10a9d4c08cfeaf368f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748575306103
+status: 4
+tags: []
+user_id: anshu
